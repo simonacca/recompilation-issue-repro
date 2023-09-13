@@ -1,6 +1,9 @@
 # Recompilation issue repro
 
-Please note: you'll see that there quite a bit of seemingly-dead code (unneeded requires, var definitions, etc).
+Issue filed [here]([url](https://github.com/thheller/shadow-cljs/issues/1149))
+
+## Note
+You'll see that there quite a bit of seemingly-dead code (unneeded requires, var definitions, etc).
 I've already tried to shrink the repro as much as possible, as far as I can tell all the code that is in here is necessary for the repro to work.
 
 ## Steps
