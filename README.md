@@ -1,6 +1,6 @@
 # Recompilation issue repro
 
-Issue filed [here]([url](https://github.com/thheller/shadow-cljs/issues/1149))
+Issue filed [here](https://github.com/thheller/shadow-cljs/issues/1149)
 
 ## Note
 You'll see that there quite a bit of seemingly-dead code (unneeded requires, var definitions, etc).
