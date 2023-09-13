@@ -1,0 +1,8 @@
+{
+  "name": "recompilation-issue-repro",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "shadow-cljs": "2.25.4"
+  }
+}
