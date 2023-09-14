@@ -1,6 +1,6 @@
-(ns module2
-  (:require [module1]
-            [module0]))
+(ns segment.module2
+  (:require [segment.module1 :as module1]
+            [segment.module0 :as module0]))
 
 (defrecord My-record []
   module0/Proto

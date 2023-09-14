@@ -5,4 +5,4 @@
 
  :builds {:app {:target :browser 
                 :output-dir "build" 
-                :modules {:main {:entries [core]}}}}}
+                :modules {:main {:entries [segment.core]}}}}}
